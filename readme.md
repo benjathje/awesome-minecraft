@@ -236,6 +236,7 @@
 
 - [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+- [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 
 ## Development
 
